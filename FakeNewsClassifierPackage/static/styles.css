@@ -1,0 +1,27 @@
+/* styles.css */
+body {
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color:  #A9A9A9;
+    color: white;
+}
+
+.logo-container {
+    
+    text-align: right;
+    padding-right: 10px;  
+    margin-top: 5px;
+     }
+
+footer {
+    background-color: #e9ecef;
+    color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+
+/* Add more custom styles as needed */
