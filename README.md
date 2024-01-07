@@ -12,7 +12,7 @@ All the data is included in the provided data.csv file.The file includes one com
 * speaker_affiliation: the political or professional affiliation of the person who made the statement
 * statement_context: the context in which the statement was made 
 
-The code creates Python package that implements a truthfulness classifier for statements such as those found in data.csv. The package is accompanied by brief instructions on how to install and use that **<u>you can find in the "app" folder. </u>** Please have a look in the powerpoint presentation as well to get a better understanting of the methodology followed for exploration and the final model that was implemented for the project.
+The code creates a Python package that implements a truthfulness classifier for statements such as those found in data.csv. The package is accompanied by brief instructions on how to install and use that you can find in the "app" [folder](/FakeNewsClassifierPackage/app/README.md). Please have a look in the powerpoint presentation as well to get a better understanting of the methodology followed for exploration and the final model that was implemented for the project.
 
 The user can run the app and upload csv file for preprocessing and model training and a json file for testing predictions. The model returns a True/False prediction and a short explanation that justifies the prediction.
 
