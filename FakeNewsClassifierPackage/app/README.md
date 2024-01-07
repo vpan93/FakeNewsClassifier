@@ -1,6 +1,3 @@
-# Fake news detection
-
-This is a techincal assignment as part of Satalia's recruitment process for the data scientist job role.
 ## Getting Started
 
 These instructions will guide you on how to install the created Python package and test the model with your own data.
