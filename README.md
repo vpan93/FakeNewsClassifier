@@ -16,6 +16,12 @@ The code creates a Python package that implements a truthfulness classifier for 
 
 The user can run the app and upload csv file for preprocessing and model training and a json file for testing predictions. The model returns a True/False prediction and a short explanation that justifies the prediction.
 
+## Future imporvements
+1. Add the python scripts that loads GloVe word embedding and the logistic regression that is implemented after
+2. Experiment with Transformer models such as BERT
+3. Change the front end and give the user the functionality to train three models (LSTM, logistic regression and BERT)
+4. Add a python notebook with graphs,tables etc that compares the performance of the aformentioned models
+
 
 ## Author
 
